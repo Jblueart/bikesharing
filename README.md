@@ -8,9 +8,10 @@ I imported the csv into pandas to convert the tripduration to a datetime format 
 Tableau allows for some really fun maps and interactive datamodels. I really enjoyed this program and have even gotten it installed on my computer at work, but have been too swamped to use it yet! Hopefully in the next few weeks I can release a few of my accounts to other people so I can focus on the bigger problems with my newest account. My latest account has been taking more time than expected. Sometimes change moves slowly when organizations re-structure. 
 Handpicked for a project that feels like a fast forward into a new era of confusion for all parties. But I digress. 
 
-Here is a link to my tableau workbook
 
-https://public.tableau.com/views/NYCBikesharebyJoeTaylor/Activestations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+## Tableau Story 
+
+https://public.tableau.com/shared/CJ8WD4WRB?:display_count=n&:origin=viz_share_link
 
 The above link shows my hosted tableau info and the assorted heatmaps, and Active stations map which I've colorcoded by station popularity & is filterable by Gender, Female, Male & Person. To me these are important factors to consider in ensureing the bike share stations are placed in safe & well lit areas where people have clear vision. 
 
